@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamJam756
 - 👀 I’m interested in Game Design and Software Development!
-- 🌱 I’m currently learning JavaScript, HTML, and CSS!
+- 🌱 I’m currently learning Python, JavaScript, HTML, and CSS!
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/cameron-penney-41b150282/
 
